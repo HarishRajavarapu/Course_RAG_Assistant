@@ -1,0 +1,4 @@
+[server]
+maxUploadSize = 50
+fileWatcherType = "none"
+address = "127.0.0.1"
